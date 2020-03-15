@@ -1,0 +1,10 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "env/bin/python",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
