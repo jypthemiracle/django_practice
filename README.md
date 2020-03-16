@@ -167,7 +167,7 @@ python manage.py migrate
 * polls 애플리케이션의 요구사항에 따르면 총 3개의 페이지가 필요하다.
 * 위의 요구사항을 분석하여 구조를 설계하면 다음과 같다.
 
-![image-20200315145854238](/Users/jypsnewmac/Library/Application Support/typora-user-images/image-20200315145854238.png)
+![image-20200315145854238](mission_photos/mission_photo_1.png)
 
 * URL과 뷰는 1:1 관계로 매핑되는데, N:1 관계도 가능하다. 
 * 이러한 URL/뷰 매핑을 URLconf라고 하며 urls.py 파일에 저장된다.
